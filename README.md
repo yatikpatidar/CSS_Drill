@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![alt text](<output screenshot/yatikpatidar.github.io_CSS_Drill_.png>)
+![alt text](<output screenshot/yatik_patidar.png>)
 
 
 ### Links
